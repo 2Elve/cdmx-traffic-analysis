@@ -1,4 +1,2 @@
-**Nombre del sitio/web:** Análisis de Tráfico Personal CDMX  
-**URL:** [Enlace a tu repo o prototipo]  
-**Descripción:**  
-"Proyecto personal para optimizar mis trayectos diarios en Ciudad de México mediante análisis de datos históricos de Waze. Planeo implementar un sistema Flask que identifique patrones de congestión en mi ruta habitual (desde [colonia] hasta [colonia]). Los datos NO se compartirán públicamente."
+Description:
+"Personal project to optimize my daily commutes in Mexico City by analyzing historical traffic data from Waze. I plan to build a Flask-based system to identify congestion patterns along my regular route (from [neighborhood] to [neighborhood]). Data will NOT be publicly shared."
